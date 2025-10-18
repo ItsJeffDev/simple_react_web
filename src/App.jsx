@@ -4,7 +4,7 @@ import Navbar from './inc/Navbar';
 import About from './components/About';
 import Contact from './components/Contact';
 import Home from './components/Home';
-import VMC from './inc/VMC';
+
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 const App = () => {

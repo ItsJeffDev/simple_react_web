@@ -10,6 +10,12 @@ const VMC = () => {
                     <div className="col-md-4 text-center">
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae sit quibusdam laudantium ex saepe id enim laboriosam perferendis consectetur hic dolores numquam accusantium est, aperiam architecto voluptatum dolorum voluptas!</p>
                     </div>
+                    <div className="col-md-4 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae sit quibusdam laudantium ex saepe id enim laboriosam perferendis consectetur hic dolores numquam accusantium est, aperiam architecto voluptatum dolorum voluptas!</p>
+                    </div>
+                    <div className="col-md-4 text-center">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure recusandae sit quibusdam laudantium ex saepe id enim laboriosam perferendis consectetur hic dolores numquam accusantium est, aperiam architecto voluptatum dolorum voluptas!</p>
+                    </div>
                 </div>
             </div>
         </section>

@@ -1,6 +1,6 @@
 import React from "react";
 import Slider from '../inc/Slider';
-import {Link} from 'react-router-dom'; 
+import {Link} from 'react-router-dom';
 import "../App.css";
 
 const Home = () => {
@@ -21,15 +21,16 @@ const Home = () => {
                     </div>
                 </div>
             </section>
-            <section className="section">
+            <section className="section mt-4 bg-light">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md 12 mb-5 text- mt-5 text-center">
+                        <div className="col-md-12 mt-5 text- mt-5 text-center">
                             <h3 className="main-heading">Our Company</h3>
                             <div className="underline mx-auto"></div>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum vel ipsam eligendi tenetur ab perferendis, cupiditate repellendus dolorem quia quasi fuga culpa aperiam vero? Hic modi quaerat consectetur distinctio quam?
-                            </p>
+                            <div className="col-md-4">
+                                <h3>Hello</h3>
+                                <h5>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus, magnam eveniet praesentium rem necessitatibus iste similique molestiae magni tenetur, quis harum aut labore enim velit illum natus alias explicabo obcaecati!</h5>
+                            </div>
                         </div>
                     </div>
                 </div>

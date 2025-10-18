@@ -1,3 +1,7 @@
+body{
+    background-color: whitesmoke;
+}
+
 .underline {
     width: 5rem;
     height: 3px;
