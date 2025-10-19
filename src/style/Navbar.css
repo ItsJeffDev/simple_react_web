@@ -1,0 +1,15 @@
+.navbar-form {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .navbar-form {
+        margin: 0 auto;
+        width: 100%;
+    }
+}
+
+.drop_it{
+    background-color: #565dbb;
+}

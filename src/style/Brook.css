@@ -1,0 +1,9 @@
+.middle-cards {
+  padding-top: 50px;
+}
+
+@media (max-width: 768px) {
+  .middle-cards {
+    padding-top: 0; /* reset on mobile so it looks aligned */
+  }
+}
